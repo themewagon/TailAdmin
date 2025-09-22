@@ -6,7 +6,7 @@
 
 #### Download
 
-- [Download from ThemeWagon](https://themewagon.com/themes/TailAdmin/)
+- [Download from ThemeWagon](https://themewagon.com/themes/tailadmin/)
 
 ## Getting Started
 
